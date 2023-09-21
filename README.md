@@ -32,7 +32,7 @@ Although there are many JSON parsers exist, most of them use raw pointers. The f
 ## Memory leak detection
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Avafly/ImageHostingService@master/uPic/SCR-20230921-osmw.png" width="450">
+  <img src="https://cdn.jsdelivr.net/gh/Avafly/ImageHostingService@master/uPic/SCR-20230921-osmw.png">
 </p>
 
 All heap memory was freed.
