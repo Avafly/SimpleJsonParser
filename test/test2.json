@@ -1,0 +1,55 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "email": "john@example.com",
+    "address": {
+        "street": "123 Main St",
+        "city": "Exampleville",
+        "zip": "12345"
+    },
+    "isStudent": false,
+    "hobbies": ["Reading", "Hiking", "Swimming"],
+    "grades": {
+        "math": 95,
+        "science": 88,
+        "history": 75
+    },
+    "friends": [
+        {
+            "name": "Alice",
+            "age": 28
+        },
+        {
+            "name": "Bob",
+            "age": 32
+        }
+    ],
+    "notes": "This is a complex JSON example with multiple data types.",
+    "isMarried": true,
+    "languages": ["English", "French", "Spanish"],
+    "bankAccounts": [
+        {
+            "accountNumber": "1234567890",
+            "balance": 5000.50
+        },
+        {
+            "accountNumber": "9876543210",
+            "balance": 7500.25
+        }
+    ],
+    "lastLogin": "2023-09-20T15:30:00Z",
+    "preferences": {
+        "theme": "Dark",
+        "notifications": true
+    },
+    "books": [
+        {
+            "title": "The Catcher in the Rye",
+            "author": "J.D. Salinger"
+        },
+        {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee"
+        }
+    ]
+}
